@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi! I'm Hugh
+
+I've been a Data analyst in various guises throughout my career and now I've taken the plunge into the world of development!! 
+<img src="https://ychef.files.bbci.co.uk/1600x900/p03lcphh.webp" alt="Munch's scream" width="200"/>
+
+But I've been loving it so far. It plays to my strengths of logical thinking. I'm developing a few different things as part of a bootcamp I'm working on but I'm particularly interesting in using python to develop machine learning tools, analyising data with regression analysis mostly. 
 
 <!--
 **hmacphee44/hmacphee44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
